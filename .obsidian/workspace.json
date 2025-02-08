@@ -8,27 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "622164e311cab1a4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "24634a7fcea3572e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "How do I compare strings in Java.md",
-                "mode": "source",
-                "source": false
+                "file": "Picture/2025-02-08 15_47_29-.png"
               },
-              "icon": "lucide-file",
-              "title": "How do I compare strings in Java"
+              "icon": "lucide-image",
+              "title": "2025-02-08 15_47_29-"
+            }
+          },
+          {
+            "id": "e43c4acb732cb354",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture/2025-02-08 15_47_29-.png"
+              },
+              "icon": "lucide-image",
+              "title": "2025-02-08 15_47_29-"
             }
           },
           {
@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -200,10 +200,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69f7b3174d43b55a",
+  "active": "bade73fb229588ae",
   "lastOpenFiles": [
-    "What is a method signature.md",
+    "Picture/jm1s4138.bmp",
+    "Picture/2025-02-08 15_47_29-.png",
+    "Git/從遠端Repository更新本地資料.md",
+    "Git的原理.md",
+    "Git/本地推送到Remote Repository.md",
+    "Git的四大工作區.md",
+    "Git的四種狀態.md",
+    "Git的工作流程.md",
+    "Picture/wcxhoekj.bmp",
+    "Git/Branch and Merge.md",
+    "Git command parameters.md",
     "How do I compare strings in Java.md",
+    "Picture/prnh9crc.bmp",
+    "What is a method signature.md",
     "compare.md",
     "java.md",
     "string.md",
@@ -219,15 +231,6 @@
     "Linux/linux theme, icon and font.md",
     "Linux.md",
     "Linux/Install oh-my-fish.md",
-    "Immich.md",
-    "homework.md",
-    "Linux/grub.md",
-    "DNS setting.md",
-    "database.md",
-    "Linux/Btrfs snapshots.md",
-    "backup.md",
-    "Linux/Snapper setting.md",
-    "Linux/Arch/Openbox.md",
     "AI",
     "Vim",
     "Author",
