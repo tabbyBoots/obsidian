@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "8b28df14091417cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a355e12e1756ce6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f372c4a9cae4a7cd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c5cf554faef858a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c3732a0ea2920b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bade73fb229588ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a44859df61454afc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "token",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f7985720eb3d831",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "61d3f1fa32b97ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f37a405a914501cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c61de99348dd5c4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Firewall/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "e9d7d77a0613af55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "linux command.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from linux command"
+            }
+          },
+          {
+            "id": "dcbb1c15ba19fca6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "27191539e70fbf24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux command.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of linux command"
+            }
+          },
+          {
+            "id": "6f41ba40395e7eca",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f372c4a9cae4a7cd",
+  "lastOpenFiles": [
+    "IMP/Cloudflare tunnel token.md",
+    "IMP/Token for VSC Trello plugin.md",
+    "VSC/dotnet new install.md",
+    "VSC/keyboard shortcut.md",
+    "VSC/Token for VSC Hackmd plugin.md",
+    "token.md",
+    "Git/從遠端Repository更新本地資料.md",
+    "SQL Server/備份.md",
+    "SQL Server/修改SQL資料結構.md",
+    "SQL Server/用目前資料表產生SQL指令.md",
+    "SQL Server/主索引鍵要設定自動遞增.md",
+    "SQL Server/SQL資料表輸入資料後不想儲存.md",
+    "Picture/2025-02-07 14_16_08-.png",
+    "SQL Server/獨佔模式.md",
+    "SQL Server/MS SQL mail setting.md",
+    "SQL.md",
+    "Picture/2025-02-07 08_25_38-.png",
+    "Markdown.md",
+    "Note App.md",
+    "MS SQL.md",
+    "database.md",
+    "Picture/2025-02-07 08_35_10-.png",
+    "Picture",
+    "SQL Server/SQL database mail.md",
+    "JAVA/Eclipse/change Eclipse font size.md",
+    "Firewall/Home.md",
+    "backup.md",
+    "JAVA/excercise of java.md",
+    "SQL Server/還原資料庫.md",
+    "SQL Server/clippings/SQLMG04-設定 SQL Server 防火牆 - HackMD.md",
+    "JAVA/Eclipse",
+    "JAVA",
+    "IMP",
+    "Linux/Theme",
+    "Linux/App",
+    "Linux/Debian",
+    "Linux/Arch",
+    "PVE",
+    "Linux"
+  ]
+}
