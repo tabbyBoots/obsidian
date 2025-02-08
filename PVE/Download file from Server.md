@@ -1,4 +1,4 @@
-## [[Linux]] [[PVE]] [[linux command]]
+## [[Linux]] [[PVE]] [[compress and extract]]
 
 shutdown  lxc
 type:

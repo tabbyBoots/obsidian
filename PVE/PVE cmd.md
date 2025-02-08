@@ -1,4 +1,4 @@
-## [[Linux]] [[PVE]] [[linux command]]
+## [[Linux]] [[PVE]] [[compress and extract]]
 
 取得PVE運行資訊
 pvesh get /cluster/resources

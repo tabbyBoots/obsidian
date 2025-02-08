@@ -1,4 +1,4 @@
-## [[Linux]] [[debian]] [[linux command]] [[Note]] [[Calendar]] [[App]] [[Standard notes]]
+## [[Linux]] [[debian]] [[compress and extract]] [[Note]] [[Calendar]] [[App]] [[Standard notes]]
 
 Instructions for running the AppImage on Linux:
 

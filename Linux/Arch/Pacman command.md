@@ -1,4 +1,4 @@
-## [[Linux]] [[Arch]] [[linux command]] [[pacman]]
+## [[Linux]] [[Arch]] [[compress and extract]] [[pacman]]
 
 sudo pacman -Rcns <package>
 

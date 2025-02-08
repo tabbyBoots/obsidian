@@ -1,0 +1,115 @@
+exclude-from-graph-view:: true
+
+-
+- #plugin #obsidian #essential
+	- setting search
+	- commander
+	- recent files
+	- paste URL into selection
+- #plugin #obsidian #essential
+	- setting search
+	- commander
+	- recent files
+	- paste URL into selection
+- #plugin #obsidian #essential
+	- setting search
+	- commander
+	- recent files
+	- paste URL into selection
+- #plugin #obsidian #journal
+	- calendar
+	- fantasy calendar
+	- periodic notes
+	- tracker
+- #plugin #obsidian #superplugin
+	- templater
+	- dataview
+- #plugin #obsidian [[content consumption]]
+	- book search
+	- quickAdd
+	- podnotes
+	-
+- #plugin #obsidian [[content creating]]
+	- projects
+	- db folder
+	- reading time
+	- better word count
+- #plugin #obsidian [[artificial intelligence]]
+	- text generator
+- #plugin #obsidian #integration
+	- kindle highlight
+	- readwise
+- #plugin #obsidian [[vault maintenance]]
+	- plugin update tracker
+	- note refactor
+	- table of contents
+	- janitor
+- #plugin #obsidian #customization
+	- style settings
+	- homepage & banner ----not in [[obsidian]]. don't know why.
+- #plugin #obsidian [[other useful plugin]]
+	- natural language dates
+	- editor syntax highlight
+	- sliding panes
+- #plugin #obsidian #essential
+	- setting search
+	- commander
+	- recent files
+	- paste URL into selection
+- #plugin #obsidian #journal
+	- calendar
+	- fantasy calendar
+	- periodic notes
+	- tracker
+- #plugin #obsidian #superplugin
+	- templater
+	- dataview
+- #plugin #obsidian [[content consumption]]
+	- book search
+	- quickAdd
+	- podnotes
+	-
+- #plugin #obsidian [[content creating]]
+	- projects
+	- db folder
+	- reading time
+	- better word count
+- #plugin #obsidian [[artificial intelligence]]
+	- text generator
+- #plugin #obsidian #integration
+	- kindle highlight
+	- readwise
+- #plugin #obsidian [[vault maintenance]]
+	- plugin update tracker
+	- note refactor
+	- table of contents
+	- janitor
+- #plugin #obsidian #journal
+	- calendar
+	- fantasy calendar
+	- periodic notes
+	- tracker
+- #plugin #obsidian #superplugin
+	- templater
+	- dataview
+- #plugin #obsidian [[content consumption]]
+	- book search
+	- quickAdd
+	- podnotes
+	-
+- #plugin #obsidian [[content creating]]
+	- projects
+	- db folder
+	- reading time
+	- better word count
+- #plugin #obsidian [[artificial intelligence]]
+	- text generator
+- #plugin #obsidian #integration
+	- kindle highlight
+	- readwise
+- #plugin #obsidian [[vault maintenance]]
+	- plugin update tracker
+	- note refactor
+	- table of contents
+	- janitor
+-

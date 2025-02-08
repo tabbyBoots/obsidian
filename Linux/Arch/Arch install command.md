@@ -1,4 +1,4 @@
-## [[Linux]] [[Arch]] [[linux command]]
+## [[Linux]] [[Arch]] [[compress and extract]]
 
 reflector -c Taiwan --verbose --latest 5 --sort rate --save /etc/pacman.d/mirrorlist
 

@@ -1,4 +1,4 @@
-## [[Linux]] [[Arch]] [[linux command]] [[Openbox]]
+## [[Linux]] [[Arch]] [[compress and extract]] [[Openbox]]
 
 install XFCE DE
 
@@ -42,5 +42,4 @@ picom &
 plank &
 nitrogen --restore &
 volumeicon &
-===================
 alacritty -e fish

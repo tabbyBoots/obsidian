@@ -1,4 +1,4 @@
-## [[Linux]] [[debian]] [[linux command]] [[Radicle]] [[Calendar]] [[App]]
+## [[Linux]] [[debian]] [[compress and extract]] [[Radicle]] [[Calendar]] [[App]]
 
 Use the following command to install pip for Python 3:
 

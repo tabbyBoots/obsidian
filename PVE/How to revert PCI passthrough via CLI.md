@@ -1,4 +1,4 @@
-## [[Linux]] [[PVE]] [[linux command]]
+## [[Linux]] [[PVE]] [[compress and extract]]
 
 Look for the configuration file in the directory /etc/pve/qemu-server/. 
 Is is named VM-NUMBER.conf. 

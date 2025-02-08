@@ -1,4 +1,4 @@
-## [[Linux]] [[PVE]] [[linux command]] [[interface]]
+## [[Linux]] [[PVE]] [[compress and extract]] [[interface]]
 
 主機板網口 eno1
 
