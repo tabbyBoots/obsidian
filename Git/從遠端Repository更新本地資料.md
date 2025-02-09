@@ -1,19 +1,19 @@
-### [[Git]] [[pull]] [[更新]] 
+### [[Git]] [[pull]] [[更新分支]] 
 
 ```git
 git pull origin training_ctr
 ```
 
-```git
-git pull origin <branch_name>
-```
-
+### 推送本地分支進度到遠端儲存庫
+#### `git push origin <branch_name>
 
 ### 下載遠端儲存庫所有分支更新並合併到本地分支
 `git pull`
 ( `git pull` = `git fetch` + `git merge`)
-### 將遠端的master分支合併到目前本地的master分支
-`git pull origin master`
+### 將遠端的master分支合併到目前本地的master分支，要刪除分支則使用`-d [分支名稱]`參數
+
+#### `git pull origin master`
+#### `git pull origin -d <分支名稱>`
 
 ### 將遠端的master分支合併到目前本地的master分支，冒號後是表示為本地分支
 `git pull origin master:master`
