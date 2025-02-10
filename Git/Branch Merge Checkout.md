@@ -7,6 +7,7 @@
 ### Branch (分支)建立跟刪除
 #### `git branch [分支名稱]  //建立分支，但是仍停留在原本的分支`
 #### `git branch -d [分支名稱]  //刪除分支`
+
 [-d 刪除跟 -D 刪除的差異](https://unix.stackexchange.com/questions/365944/what-are-the-differences-between-d-and-d-when-deleting-a-branch-in-git) 
 ### 顯示目前的Branch
 

@@ -11,7 +11,7 @@ git pull origin training_ctr
 `git pull`
 ( `git pull` = `git fetch` + `git merge`)
 ### 將遠端的master分支合併到目前本地的master分支，要刪除分支則使用`-d [分支名稱]`參數
-
+**[[-d 刪除跟 -D 刪除的差異]]**
 #### `git pull origin master`
 #### `git pull origin -d <分支名稱>`
 
