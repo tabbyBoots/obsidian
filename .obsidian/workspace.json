@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/本地推送到Remote Repository.md",
+                "file": "Git/從遠端Repository更新本地資料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地推送到Remote Repository"
+              "title": "從遠端Repository更新本地資料"
             }
           }
         ],
@@ -177,6 +177,8 @@
   },
   "active": "830aac8b01011e90",
   "lastOpenFiles": [
+    "Git/本地推送到Remote Repository.md",
+    "Git/從遠端Repository更新本地資料.md",
     "製表符.md",
     "JAVA/JAVA環境變量.md",
     "2025-02-09 23_24_41-_usr_bin_bash --login -i.png",
@@ -184,8 +186,6 @@
     "java.md",
     "設置環境變量.md",
     "Git/Branch Merge Checkout.md",
-    "Git/從遠端Repository更新本地資料.md",
-    "Git/本地推送到Remote Repository.md",
     "Git/清除第一筆commit.md",
     "Picture/2025-02-08 15_47_29-.png",
     "Picture/jm1s4138.bmp",
