@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "8b28df14091417cb",
+    "id": "4d499597e00c0e6f",
     "type": "split",
     "children": [
       {
-        "id": "240f59378619e44b",
+        "id": "05433df7595a38ad",
         "type": "tabs",
         "children": [
           {
-            "id": "f7d67ad4eaa039ab",
+            "id": "b6c61489b6a48cdf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,22 +17,21 @@
               "title": "New tab"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8c5cf554faef858a",
+    "id": "589f075106b561e6",
     "type": "split",
     "children": [
       {
-        "id": "c8c3732a0ea2920b",
+        "id": "54c91ab15e26f365",
         "type": "tabs",
         "children": [
           {
-            "id": "bade73fb229588ae",
+            "id": "094f09ce831a11d2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -45,7 +44,7 @@
             }
           },
           {
-            "id": "a44859df61454afc",
+            "id": "15869b8711b6181f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +61,7 @@
             }
           },
           {
-            "id": "5f7985720eb3d831",
+            "id": "ca2e7cde23c35123",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,23 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "61d3f1fa32b97ebf",
+    "id": "5feb1e5dcd2f065a",
     "type": "split",
     "children": [
       {
-        "id": "f37a405a914501cb",
+        "id": "2394a0420da17384",
         "type": "tabs",
         "children": [
           {
-            "id": "c61de99348dd5c4d",
+            "id": "f11a4d40d024fc8d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firewall/Home.md",
+                "file": "Git/從遠端Repository更新本地資料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,60 +100,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for 從遠端Repository更新本地資料"
             }
           },
           {
-            "id": "e9d7d77a0613af55",
+            "id": "9ad343b3934d4412",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux command.md",
+                "file": "Git/從遠端Repository更新本地資料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from linux command"
+              "title": "Outgoing links from 從遠端Repository更新本地資料"
             }
           },
           {
-            "id": "dcbb1c15ba19fca6",
+            "id": "ebd014adac9dbd07",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "27191539e70fbf24",
+            "id": "e17525f20bee15e8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux command.md"
+                "file": "Git/從遠端Repository更新本地資料.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of linux command"
-            }
-          },
-          {
-            "id": "6f41ba40395e7eca",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 從遠端Repository更新本地資料"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,51 +165,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7d67ad4eaa039ab",
+  "active": "b6c61489b6a48cdf",
   "lastOpenFiles": [
     "Git/從遠端Repository更新本地資料.md",
     "Git/本地推送到Remote Repository.md",
-    "Linux/Arch/AUR helper.md",
-    "JAVA/複製陣列注意事項.md",
+    "JAVA/覆載.md",
+    "JAVA/拆字串.md",
+    "JAVA/多載.md",
+    "JAVA/字串常用功能.md",
     "JAVA/包裝類別(wrapper class).md",
-    "FancyZones utility.md",
-    "GMK toolbox.md",
-    "MSYS2.md",
-    "static modifier.md",
-    "java.md",
-    "設置環境變量.md",
-    "Git/-d 刪除跟 -D 刪除的差異.md",
-    "Git/Branch Merge Checkout.md",
-    "Git/Git command parameters.md",
-    "Git/Git的工作流程.md",
-    "Git/清除第一筆commit.md",
-    "Git/Git的四大工作區.md",
-    "Git/Git的四種狀態.md",
-    "Git/Git的原理.md",
-    "windows設置.md",
-    "William Westmoreland.md",
-    "Why Nations Fail.md",
     "JAVA/What is a method signature.md",
-    "Vietnam.md",
-    "token.md",
-    "The rise and fall of the great powers.md",
-    "Picture/2025-02-09 23_24_41-_usr_bin_bash --login -i.png",
-    "Picture/wcxhoekj.bmp",
-    "Picture/prnh9crc.bmp",
-    "Picture/jm1s4138.bmp",
-    "Picture/2025-02-08 15_47_29-.png",
-    "AI",
-    "Vim",
-    "Author",
-    "Books/Secrets-A Memoir of Vietnam and the Pentagon Papers",
-    "Books",
-    "Picture/2025-02-07 14_16_08-.png",
-    "Picture/2025-02-07 08_25_38-.png",
-    "Picture/2025-02-07 08_35_10-.png",
-    "Picture",
-    "JAVA/Eclipse",
-    "JAVA",
-    "IMP",
-    "Linux/Theme"
+    "JAVA/JAVA環境變量.md",
+    "JAVA/How do I compare strings in Java.md",
+    "JAVA/excercise of java.md",
+    "JAVA/excercise of java 1.md",
+    "JAVA/複製陣列注意事項.md",
+    "JAVA/製表符.md",
+    "interface.md",
+    "overlord.md"
   ]
 }
