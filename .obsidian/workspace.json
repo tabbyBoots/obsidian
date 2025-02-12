@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05433df7595a38ad",
+        "id": "8091ccb2edbb9445",
         "type": "tabs",
         "children": [
           {
-            "id": "b6c61489b6a48cdf",
+            "id": "04c0de73cecbe0d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "overlo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5feb1e5dcd2f065a",
@@ -165,13 +166,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6c61489b6a48cdf",
+  "active": "04c0de73cecbe0d3",
   "lastOpenFiles": [
+    "SQL Server/INSERT 插入資料庫.md",
+    "SQL Server/建完資料表後在新查詢時，新資料表顯示紅底線.md",
+    "JAVA/Static initializer.md",
+    "JAVA/建構子 constructor.md",
+    "多載.md",
+    "Picture/2025-02-12 08_50_57-.png",
+    "JAVA/覆載 override.md",
+    "JAVA/多載 overlord.md",
+    "SQL Server/資料表的關聯性.md",
+    "SQL Server/修改SQL資料結構.md",
+    "SQL Server/資料庫圖表.md",
+    "SQL Server/資料關聯的危險.md",
+    "SQL Server/修改SQL資料結構-.md",
+    "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio 1.png",
+    "SQL Server/用目前資料表產生SQL指令.md",
+    "SQL Server/主索引鍵要設定自動遞增.md",
+    "SQL Server/關聯性 (Relation).md",
+    "Picture/2025-02-12 12_27_23-選項.png",
+    "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio.png",
+    "Picture/fk_only.png",
     "Git/從遠端Repository更新本地資料.md",
     "Git/本地推送到Remote Repository.md",
-    "JAVA/覆載.md",
     "JAVA/拆字串.md",
-    "JAVA/多載.md",
     "JAVA/字串常用功能.md",
     "JAVA/包裝類別(wrapper class).md",
     "JAVA/What is a method signature.md",
@@ -179,9 +198,6 @@
     "JAVA/How do I compare strings in Java.md",
     "JAVA/excercise of java.md",
     "JAVA/excercise of java 1.md",
-    "JAVA/複製陣列注意事項.md",
-    "JAVA/製表符.md",
-    "interface.md",
-    "overlord.md"
+    "JAVA/複製陣列注意事項.md"
   ]
 }
