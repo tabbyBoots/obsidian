@@ -1,4 +1,4 @@
-### [[SQL]] [[MS SQL]] [[database]]
+### [[SQL]] [[SSMS]] [[database]]
 
 #### 口訣 **工具選項設計師**
 

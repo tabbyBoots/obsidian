@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "844a558e0ee999e3",
+        "id": "910a0b2209f9d9bc",
         "type": "tabs",
         "children": [
           {
-            "id": "5cadf80940dfa087",
+            "id": "119cd5efa5da899f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/巢狀類別跟介面用法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "巢狀類別跟介面用法"
             }
           }
         ]
@@ -166,8 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cadf80940dfa087",
+  "active": "119cd5efa5da899f",
   "lastOpenFiles": [
+    "JAVA/巢狀類別跟介面用法.md",
+    "SQL Server/顯示行號.md",
+    "SQL Server/SSMS.md",
+    "行號.png",
     "輸出SQL查詢結果到EXCEL.md",
     "Vim/複製跟貼上.md",
     "SQL Server/Between要注意範圍.md",
@@ -199,9 +207,6 @@
     "Picture/fk_only.png",
     "Git/從遠端Repository更新本地資料.md",
     "Git/本地推送到Remote Repository.md",
-    "JAVA/拆字串.md",
-    "JAVA/字串常用功能.md",
-    "JAVA/包裝類別(wrapper class).md",
-    "JAVA/What is a method signature.md"
+    "JAVA/拆字串.md"
   ]
 }

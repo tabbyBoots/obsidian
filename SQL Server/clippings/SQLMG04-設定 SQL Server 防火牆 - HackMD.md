@@ -12,4 +12,4 @@ tags:
 設定 SQL Server 防火牆
 
 [[SQL]]
-[[MS SQL]]
+[[SSMS]]

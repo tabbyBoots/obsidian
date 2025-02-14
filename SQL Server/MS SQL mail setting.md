@@ -1,4 +1,4 @@
-### [[SQL]] [[MS SQL]] [[backup]] [[database]]
+### [[SQL]] [[SSMS]] [[backup]] [[database]]
 
 
 ```SQL

@@ -1,4 +1,4 @@
-### [[SQL]] [[MS SQL]] [[database]]
+### [[SQL]] [[SSMS]] [[database]]
 
 ``資料庫`` ``> 工作`` ``> 產生指令碼``
 

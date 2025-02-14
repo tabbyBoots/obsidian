@@ -1,4 +1,4 @@
-### [[SQL]] [[MS SQL]] [[backup]] [[database]]
+### [[SQL]] [[SSMS]] [[backup]] [[database]]
 
 要啟用SQL database mail功能
 如果使用Google smtp mail server
