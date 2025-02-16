@@ -1,4 +1,4 @@
-### [[Git]]
+### [[Git]] [[staging]] [[repository]] [[remote]]
 
 
 ![[prnh9crc.bmp]]

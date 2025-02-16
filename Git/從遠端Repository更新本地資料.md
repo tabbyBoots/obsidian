@@ -1,4 +1,4 @@
-### [[Git]] [[pull]] [[更新分支]] 
+### [[Git]] [[pull]] [[更新分支]] [[branch]]
 
 ```git
 git pull origin training_ctr

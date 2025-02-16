@@ -1,4 +1,4 @@
-### [[arch]] [[AUR]] [[paru]]
+### [[AUR]] [[paru]]
 
 #### [paru](https://github.com/morganamilo/paru)
 

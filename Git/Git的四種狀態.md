@@ -1,4 +1,4 @@
-### [[Git]]
+### [[Git]] [[tracked]][[untracked]] [[unmodified]] [[modified]] [[staged]]
 
 Tracked 已追蹤
 	Unmodified

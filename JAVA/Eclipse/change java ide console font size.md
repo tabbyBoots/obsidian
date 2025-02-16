@@ -1,4 +1,4 @@
-## [change java ide console font size](https://codingtechroom.com/question/how-to-increase-console-font-size-in-eclipse-ide-for-better-readability)
+### [change java ide console font size](https://codingtechroom.com/question/how-to-increase-console-font-size-in-eclipse-ide-for-better-readability) ### [[java]]
 
 #### Solutions
 - Open Eclipse IDE and navigate to the '**Preferences**' menu.

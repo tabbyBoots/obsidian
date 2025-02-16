@@ -1,4 +1,4 @@
-### [[Git]] [[Branch Merge Checkout]]
+### [[Git]] [[Branch Merge Checkout]] [[branch]] [[merge]] [[head]]
 
 # Branch
 ### 將某個Branch併入目前的分支，用以下指令

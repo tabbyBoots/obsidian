@@ -1,4 +1,4 @@
-## [[Linux]] [[Arch]] [[compress and extract]] [[BTRFS]]
+## [[Arch]] [[compress and extract]] [[BTRFS]]
 
 vim /etc/pacman.conf
 

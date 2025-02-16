@@ -1,6 +1,6 @@
-exclude-from-graph-view:: true
 
-- #android #[[note taking]]
+
+- #android #[[Note App]]
 -
 - #tutorial
 - {{video https://www.youtube.com/watch?v=3OgHp12xhSI}}

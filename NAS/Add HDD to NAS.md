@@ -1,5 +1,4 @@
-## [[NAS]] 
-## [[NAS command]] 
+## [[NAS command]]
 
 
 sudo mount /opt/NAS_storage

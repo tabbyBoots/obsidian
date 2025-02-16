@@ -1,3 +1,4 @@
+### [[SQL]] [[AI]] [[Excel]] [[TSQL]]
  >how to export query result from MS SQL 2022 to a excel spreadsheet
  >
  >Exporting the results of an MS SQL Server 2022 query to an Excel spreadsheet is a common task and can be accomplished in several ways. Below are some methods you can use:

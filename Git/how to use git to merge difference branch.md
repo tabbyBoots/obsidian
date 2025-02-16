@@ -1,4 +1,4 @@
-### [[Git]] [[merge]]
+### [[Git]] [[merge]] [[checkout]] [[fetch]]
 
 >>> how to use git to merge difference branch? if local brances have been merged, how to make remote repository merged as well? I am using github by the way.
 

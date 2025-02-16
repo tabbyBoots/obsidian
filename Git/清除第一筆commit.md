@@ -1,4 +1,4 @@
-## [[Git的四大工作區]] 
+## [[Git的四大工作區]] [[commit]] [[rebase]]
 
 [remove the first commit ](https://stackoverflow.com/questions/10911317/how-to-remove-the-first-commit-in-git)
 For me, the most secure way is to use the `update-ref` command:

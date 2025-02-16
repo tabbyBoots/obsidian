@@ -1,4 +1,4 @@
-### [[Git]]
+### [[Git]] [[diff]]
 
 Compact summary
 
