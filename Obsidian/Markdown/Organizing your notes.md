@@ -1,4 +1,6 @@
-**Maps of Content** - MOC  [[Obsidian]]
+#### [[Obsidian]]  [[PARA Method]]  [[Zettelkasten Method]] [[Maps of Content]]
+
+**Maps of Content** - MOC
 
 **PARA Method** - put notes into these 4 folders
 	-Projects

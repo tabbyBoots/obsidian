@@ -1,4 +1,4 @@
-## [[Firewall]] [[OpnSense]] [[Rule]]
+## [[Firewall]] [[OpnSense]] [[Rule]] [[network]]
 
 **Firewall Rule**
 *Firewall Rule*

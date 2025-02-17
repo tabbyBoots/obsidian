@@ -1,4 +1,4 @@
-- #snapper #linux #cli #terminal #restore #restoration #broken
+- #snapper #cli #terminal #restore #restoration #broken
 - [[snapper]]
   collapsed:: true
 	- # Start

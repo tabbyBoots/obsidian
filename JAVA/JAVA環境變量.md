@@ -1,5 +1,5 @@
 
-[[windows設置]] [[java]]
+[[windows設置]] [[java]] [[environment variable]] 
 
 1. 找到 `JAVA SDK安裝路徑`
 2. 複製 `JAVA SDK安裝路徑\bin`

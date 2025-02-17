@@ -1,4 +1,4 @@
-# Markdown Primer [[Obsidian]]
+# Markdown Primer [[Obsidian]] [[Markdown]]
 
 **Headings** type # followed by the heading text
 **Bold/Italics** type asterisk * or undersocres, one for *Italics*, two for **Bold**

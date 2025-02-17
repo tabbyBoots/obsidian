@@ -1,4 +1,4 @@
-- #history #institutions #economics #Books
+### [[institutions]] [[history]] [[Books]] [[economics]]
 -
 - Rule of law
 - the way that law itself is made.

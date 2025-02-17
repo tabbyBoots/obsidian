@@ -1,4 +1,4 @@
-- #linux #cli #command
+- [[linux]] [[cli]] [[command]]
 - # restoration from snapshot
 	- # Start
 	- `sudo mount /dev/sda2 -o subvolid=5 /mnt`

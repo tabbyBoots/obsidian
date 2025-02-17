@@ -1,4 +1,4 @@
-exclude-from-graph-view:: true
+[[Obsidian]] [[plugin]]
 
 -
 - #plugin #obsidian #essential
