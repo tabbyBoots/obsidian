@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69db5ee88c51454b",
+        "id": "75e401765b56dccf",
         "type": "tabs",
         "children": [
           {
-            "id": "166b4616ed29dbd6",
+            "id": "7bd3e5ac349e43ab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,8 +164,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "166b4616ed29dbd6",
+  "active": "7bd3e5ac349e43ab",
   "lastOpenFiles": [
+    "rank跟dense_rank函數的使用時機.md",
+    "CTE 階層式遞迴查詢.md",
+    "Trigger.md",
+    "Picture/2025-02-18 16_04_40-Window.png",
+    "Picture/新增Trigger.png",
+    "CTE單階遞迴查詢範例.md",
+    "檢視表.md",
+    "VIEW.md",
+    "CTE 可以用來分解複雜的查詢.md",
+    "簡單的CTE查詢.md",
+    "CTE.md",
+    "Cursor範例2-計算指定日期範圍內銷售總額.md",
+    "Cursor範例1-取得銷售總額欄位.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "SQL.md",
+    "INNER JOIN跟LEFT OUTER JOIN比較.md",
+    "SQL的迴圈用法-Cursor.md",
     "多執行緒.md",
     "Obsidian.md",
     "Obsidian/Markdown/Organizing your notes.md",
@@ -178,21 +195,6 @@
     "artificial intelligence.md",
     "content creating.md",
     "Obsidian/Keyboard Shotcut.md",
-    "Obsidian/Markdown/keyboard shortcut.md",
-    "Git/Git的四種狀態.md",
-    "staged.md",
-    "unmodified.md",
-    "modified.md",
-    "tracked.md",
-    "untracked.md",
-    "staging.md",
-    "remote.md",
-    "rebase.md",
-    "commit.md",
-    "執行緒.md",
-    "Dickens's Bleak House.md",
-    "Books/The Great Degeneration How Institutions Decay and Economies Dies.md",
-    "deepseek.md",
     "Picture/2025-02-13 09_16_14-Window.png",
     "Daily notes",
     "Picture/行號.png",
@@ -202,7 +204,6 @@
     "Picture/2025-02-12 08_50_57-.png",
     "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio 1.png",
     "Picture/2025-02-12 12_27_23-選項.png",
-    "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio.png",
-    "Picture/fk_only.png"
+    "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio.png"
   ]
 }
