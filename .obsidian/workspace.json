@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f56c4f1dcd244c9",
+        "id": "c6a6260c45199a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "bd54a5ead098d597",
+            "id": "071ee655a8186e50",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5feb1e5dcd2f065a",
@@ -165,8 +164,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd54a5ead098d597",
+  "active": "071ee655a8186e50",
   "lastOpenFiles": [
+    "dotnet tool安裝問題.md",
+    "Picture/2025-02-20 10_21_37-Microsoft Visual Studio.png",
+    "Picture/2025-02-20 10_20_43-Microsoft Visual Studio.png",
+    "Books/The Great Degeneration How Institutions Decay and Economies Dies.md",
+    "SQL.md",
+    "CTE.md",
     "Open source MAP app.md",
     "自動計算總價.md",
     "Trigger樣板.md",
@@ -190,11 +195,6 @@
     "The Near Future of AI by Andrew Ng.md",
     "staging.md",
     "string.md",
-    "tab.md",
-    "JAVA/static modifier.md",
-    "staged.md",
-    "SQL.md",
-    "remote.md",
     "Picture/2025-02-18 16_04_40-Window.png",
     "Picture/新增Trigger.png",
     "Picture/2025-02-13 09_16_14-Window.png",
@@ -204,8 +204,6 @@
     "Picture/2025-02-13 09_18_41-Window.png",
     "gti",
     "Picture/2025-02-12 08_50_57-.png",
-    "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio 1.png",
-    "Picture/2025-02-12 12_27_23-選項.png",
-    "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio.png"
+    "Picture/2025-02-12 12_25_45-Solution1 - Microsoft SQL Server Management Studio 1.png"
   ]
 }
