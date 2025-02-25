@@ -1,0 +1,82 @@
+### [[institutions]] [[history]] [[Books]] [[economics]]
+-
+- Rule of law
+- the way that law itself is made.
+- strict and cannot be changed or the rules evolve organically
+- Anglosphere is in danger.
+- become rule of lawyers
+- [[Dickens's Bleak House]]
+- [[Alexis de Tocqueville]]
+- [[civil society]]
+- [[Darwinian force]]
+- naturally selecting the fittest from the unfit
+- good institutions vs. bad institutions
+- distinguish between two phases or patterns of human organization
+	- 1st natural state or limited access pattern
+		- slow-growing economy
+		- few non-state organizations
+		- small and centralized government
+		- social relationships organized along personal and dynastic lines
+	- 2nd open access pattern
+		- faster-growing economy
+		- vibrant civil society with lots of organizations
+		- bigger and more decentralized government
+		- social relationship governed by impersonal forces like the rule of law,  involving secure property rights, fairness and equality
+- from "limit access" to "open access"
+- Judaeo-Christian culture
+- [[Acemoglu]] and [[Robinson]] illustrate the power of institutions relative to geography and culture by describing the city of Nogales, which is bisected by the US–Mexican border.
+- Development economists – notably [[Paul Collier]]  – have been thinking in these terms for some time.
+- [[Extractive institutions]], as described by [[Daron Acemoglu]] , are economic
+  and political arrangements that concentrate power and resources in the 
+  hands of a small elite or ruling class, often at the expense of the 
+  broader population.
+- [[Hernando de Soto]]'s experiment
+	- By slogging away in the shanty towns of Lima, Port-au-Prince, Cairo and Manila, he and his researchers established that, though their incomes are low, the poor of the world have a surprisingly large amount of property.
+	- As an experiment, de Soto and his team tried to establish a small garment workshop on the outskirts of Lima on a legal basis. It took them a staggering 289 days to do so. And when they tried to secure legal authorization to build a house on state-owned land, it took even longer: six years and eleven months, during which they had to deal with fifty-two different government offices.
+	- Dysfunctional institutions like these, de Soto argues, are what force the poor to live outside the law.
+	  background-color:: yellow
+	- gist:: [[dysfunctional institutions force the poor live outside the law.]], [[gist]]
+	- [[The Mystery of Capital]] by [[Hernando de Soto]]
+		- Tunisia and Egypt have compelling evidence in support of his approach.
+- [[Glorious Revolution]]-[[agricultural improvement]]-[[imperial expansion]]-[[industrial revolution]]
+- [[1689 Bill of Rights]]
+- [[institutional evolution]] is the key to understanding Western ascendancy
+-
+- Major influences on my thinking include [[Douglass North]] , who won the Nobel Prize for Economics for his work on institutions; [[the pre-eminent economist of modern Africa]], [[Paul Collier]], author of [[The Bottom Billion]] and  [[Plundered Planet]]; [[Hernando de Soto]], the Peruvian economist and author of [[The Mystery of Capital]]; [[Andrei Shleifer]] and his numerous co-authors, who have pioneered an economic approach to the comparative study of legal systems; and [[Jim Robinson]] and [[Daron Acemoglu]], whose book [[Why Nations Fail]] asks similar questions to the ones that interest me.
+- [[Jared Diamond]]
+-
+- International Monetary Fund, World Economic Outlook Database #IMF
+	- General government net debt as a percentage of revenue
+- the economist [[Laurence Kotlikoff]] calculates that to eliminate the federal government’s fiscal gap would require an immediate 64 per cent increase in all federal taxes or an immediate 40 per cent cut in all federal expenditures.
+- [[social contract]]-partnership between the generations
+- In his  [[Reflections on the Revolution in France]]  (1790), [[Edmund Burke]] wrote that the real social contract is not [[Jean-Jacques Rousseau]] ’s contract between the sovereign and the people or ‘general will’, but the ‘partnership’ between the generations.
+-
+- Right things to do but very unpopular #[[government debt]] #deficit
+	- only two Eurozone government are below the mandated 0.5 % of GDP ceiling.
+	- most have structural deficits at least 4 times than that.
+	- experience suggests that any government that tries to reduce its structural deficit ends up being driven from power
+- older voters are so much more likely to vote than younger voters
+- Public sector balance sheets can and should be drawn up.
+	- liabilities can be compared with their assets.
+	- to clarify the difference between
+		- deficits to finance investment
+		- deficits to finance current consumption
+- [[excessive public debts]] are a symptom of the breakdown of the [[social contract]] between the generations.
+- [[The Darwinian Economy]]
+- the [[Glass–Steagall Act]] of 1933 in the US
+- Princeton economist [[Paul Krugman]]
+- deposit insurance
+	- strict regulation of bank balance sheets
+		- limits on risky lending
+		- limits on leverage
+- 1947 [[Exchange Control Act]] in England
+- 1948, 1967 [[Companies Act]] in England
+- 1958 [[Prevention of Fraud Act]] in England
+- 1963 [[Protection of Depositors]] Act in England
+- tightly controlled but the 1970s were arguably Britain's disastrous decade since 1820s
+- 1976 International Monetary Fund #IMF
+- Competition and Credit Control
+- bad regulation
+- bad monetary and fiscal policy
+-
+-

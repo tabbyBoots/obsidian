@@ -1,0 +1,28 @@
+- [[Vim Plugin]] [[Vim]] [[key bindings]] [[keyboard shortcut]]
+- [VimBeGood](https://github.com/ThePrimeagen/vim-be-good)
+- ThePrimeagen/vim-be-good
+-
+- [[Vim key bindings]]
+- [[Visual mode]]
+	- 選取段落後
+	- 按 y 複製
+	- 按 p 貼上
+	- dd 刪除插入點整行
+	- dd 後如果接著按 p 就會從插入點下一行  貼上剛剛刪除的那一行
+	-
+-
+- [[Normal mode]]
+	- i    切換 insert mode  往前
+	- a   切換 insert mode 往後
+	- v   切換 visual mode
+	- shift v 切換 visual line mode
+	- u   undo
+	- r   redo
+	- :Explore 開啟檔案樹模式 (:Ex也可以)
+	- :h rtp
+	-
+	- 檔案樹模式
+		- % 開新檔案
+- [[Vim configuration]]
+-
+	-

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f56c4f1dcd244c9",
+        "id": "758d9bb13afac2df",
         "type": "tabs",
         "children": [
           {
-            "id": "bd54a5ead098d597",
+            "id": "2eb5fe4db9503538",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5feb1e5dcd2f065a",
@@ -146,13 +145,23 @@
               "icon": "lucide-list",
               "title": "Outline of 從遠端Repository更新本地資料"
             }
+          },
+          {
+            "id": "dbdb677cb2e2e1c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 960.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd54a5ead098d597",
+  "active": "2eb5fe4db9503538",
   "lastOpenFiles": [
     "Open source MAP app.md",
     "自動計算總價.md",

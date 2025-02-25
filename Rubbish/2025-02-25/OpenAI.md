@@ -1,0 +1,2 @@
+- [[OpenAI]]
+- **21:45** [[quick capture]]:  https://chat.openai.com/share/1a1b91c8-e725-4ef2-9549-ee20e3e33920
