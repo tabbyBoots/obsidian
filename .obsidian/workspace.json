@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a6260c45199a5b",
+        "id": "14703257b0d398e4",
         "type": "tabs",
         "children": [
           {
-            "id": "071ee655a8186e50",
+            "id": "7dc7782d5278839b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cursor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5feb1e5dcd2f065a",
@@ -137,20 +138,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/從遠端Repository更新本地資料.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 從遠端Repository更新本地資料"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "88076a109894af53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b2c701faa2d371b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 960.5,
+    "width": 271.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,37 +185,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "071ee655a8186e50",
+  "active": "7dc7782d5278839b",
   "lastOpenFiles": [
-    "dotnet tool安裝問題.md",
+    "artificial intelligence.md",
+    "Arch.md",
+    "Andrew Ng.md",
+    "AI.md",
+    "雙向鏈結.md",
+    "酷音輸入法.md",
+    "設置環境變量.md",
+    "版面配置.md",
+    "SQL Server/自動計算總價 1.md",
+    "Cursor.md",
+    "Linux.md",
+    "llama.md",
+    "Open source MAP app.md",
+    "powertoy.md",
+    "quick capture.md",
+    "rebase.md",
+    "Reflections on the Revolution in France.md",
+    "Triger.md",
+    "SQL Server/Trigger樣板 1.md",
+    "SQL Server/Cursor的用法.md",
+    "Obsidian/顯示鏈結的特定段落.md",
+    "Obsidian/顯示linked note.md",
+    "SQL Server/Cursor範例2-計算指定日期範圍內銷售總額.md",
+    "SQL Server/Cursor範例1-取得銷售總額欄位.md",
+    "SQL Server/建完資料表後在新查詢時，新資料表顯示紅底線.md",
+    "SQL Server/自動計算總價.md",
     "Picture/2025-02-20 10_21_37-Microsoft Visual Studio.png",
     "Picture/2025-02-20 10_20_43-Microsoft Visual Studio.png",
-    "Books/The Great Degeneration How Institutions Decay and Economies Dies.md",
-    "SQL.md",
-    "CTE.md",
-    "Open source MAP app.md",
-    "自動計算總價.md",
-    "Trigger樣板.md",
-    "SQL Server/表單自動編號.md",
-    "windows設置.md",
-    "William Westmoreland.md",
-    "Why Nations Fail.md",
-    "VIEW.md",
-    "Vietnam.md",
-    "video management.md",
-    "vault maintenance.md",
-    "untracked.md",
-    "unmodified.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "SQL Server/Trigger.md",
-    "tracked.md",
-    "token.md",
-    "The rise and fall of the great powers.md",
-    "the pre-eminent economist of modern Africa.md",
-    "The Near Future of AI by Andrew Ng.md",
-    "staging.md",
-    "string.md",
     "Picture/2025-02-18 16_04_40-Window.png",
     "Picture/新增Trigger.png",
     "Picture/2025-02-13 09_16_14-Window.png",

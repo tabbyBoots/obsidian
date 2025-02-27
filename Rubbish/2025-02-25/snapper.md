@@ -1,0 +1,19 @@
+- [[linux]] [[cli]] [[command]]
+- # restoration from snapshot
+	- # Start
+	- `sudo mount /dev/sda2 -o subvolid=5 /mnt`
+	- `cd /mnt`
+	- `sudo mv @ @.broken`
+	- `sudo btrfs subvol snapshot /mnt/@.snapshots/SnapshotNumToBeRestore/snapshot/ /mnt/@`
+	- `reboot`
+	- `sudo snapper --ambit classic rollback #SnapshotNumToBeRestore`
+	- `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+	- `reboot`
+	- `sudo mount /dev/sda2 -o subvolid=5 /mnt`
+	- `cd /mnt`
+	- `rm -fr @.broken`
+	- # all set
+- # change Grub snapshot images Writeable
+	- `sudo btrfs property set -ts /.snapshots/3/snapshot/  ro false`
+- # List snapshots
+- `snaper ls`

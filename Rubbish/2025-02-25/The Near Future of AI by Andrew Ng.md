@@ -1,0 +1,6 @@
+- The Near Future of AI by Andrew Ng - AI fund #[[Andrew Ng]] #youtube
+-
+- {{video https://www.youtube.com/watch?v=KDBq0GqKpqA&list=WL&index=1&t=1530s}}
+-
+- Logseq beginner's course #Logseq #tutorial #youtube
+- {{video https://www.youtube.com/watch?v=3OgHp12xhSI}}

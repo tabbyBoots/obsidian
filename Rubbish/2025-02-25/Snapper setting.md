@@ -1,0 +1,17 @@
+- #snapper #cli #terminal #restore #restoration #broken
+- [[snapper]]
+  collapsed:: true
+	- # Start
+	- `sudo mount /dev/sda2 -o subvolid=5 /mnt`
+	- `cd /mnt`
+	- `sudo mv @ @.broken`
+	- `sudo btrfs subvol snapshot /mnt/@.snapshots/SnapshotNumToBeRestore/snapshot/ /mnt/@`
+	- `reboot`
+	- `sudo snapper --ambit classic rollback #SnapshotNumToBeRestore`
+	- `sudo grub-mkconfig -o /boot/grub/grub.cfg`
+	- `reboot`
+	- `sudo mount /dev/sda2 -o subvolid=5 /mnt`
+	- `cd /mnt`
+	- `rm -fr @.broken`
+	- # all set
+-

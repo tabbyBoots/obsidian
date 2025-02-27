@@ -1,0 +1,8 @@
+- [[Vim]] [[plugin]]
+- :PackerSync    plugin manager sync
+-
+- [[Vim Plugin]]
+- nvim-telescope/telescope.nvim
+- [telescope](https://github.com/nvim-telescope/telescope.nvim)  Fuzzy finder plugin
+-
+- <leader>pf   自定義 fuzzy finder
